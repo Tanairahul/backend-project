@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { HashRouter as Router } from "react-router-dom";
 import Signup from "./Signup";
 import Login from "./Login";
 import ph from "./ph.png"
@@ -32,4 +32,5 @@ function Main() {
 export default Main;
 
   
+
 
