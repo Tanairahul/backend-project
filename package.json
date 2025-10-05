@@ -1,4 +1,4 @@
-"homepage": "https://tanairahul.github.io/backend-project"
+
 {
   "name": "rahul",
   "version": "0.1.0",
@@ -17,6 +17,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://tanairahul.github.io/backend-project"
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
